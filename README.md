@@ -29,3 +29,6 @@ Use resource blocks to define components of your infrastructure. A resource migh
 
 <b> f. terraform destroy:-</b> The terraform destroy command is a convenient way to destroy all remote objects managed by a particular Terraform configuration.
 
+EC2 Instance Created on AWS
+
+![Screenshot from 2021-06-19 08-32-08](https://user-images.githubusercontent.com/37794619/122632204-ece29c00-d0ee-11eb-9266-023b7d92246c.png)
